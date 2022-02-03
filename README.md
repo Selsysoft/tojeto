@@ -1,5 +1,5 @@
 # tojeto
-Tojeto Hizmet Talep Uygulaması
+Tojeto Hizmet Talep Uygulaması.
 Tojeto ile hizmet talep edebilir ve ihtiyacınıza uygun hizmet alabilirsiniz.
 Tojeto sayesinde artık hizmet aramaktan kurtulun. Hizmet ayağınıza gelsin.
 
